@@ -1,0 +1,10 @@
+********************* in bulk edit******
+
+*****create_podcast form input
+
+type:podcast
+metadata:{"ID":6,"Name":"Hello122","Duration":201,"Uploaded_time":"{{currentdate}}","Host":"Kiran","Participants": ["Dinesh","Yogesh"]}
+
+*****create_audiobook form input
+type:audiobook
+metadata:{"ID":1, "Audiobook_Title":"Harry Potter", "Author":"JK Roling", "Narrator":"Kiran", "Duration_Seconds":500, "Upload_Time":"{{currentdate}}"}
